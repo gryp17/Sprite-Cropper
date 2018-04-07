@@ -1,0 +1,16 @@
+{
+  "name": "sprite-cropper",
+  "version": "1.0.0",
+  "description": "Tool for cropping spritesheets into separate images",
+  "main": "sprite-cropper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Plamen Ivanov",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "imagemagick": "^0.1.3",
+    "minimist": "^1.2.0"
+  }
+}

@@ -1,5 +1,7 @@
 # Sprite-Cropper
-Basic command line tool for cropping spritesheets into separate images
+Basic command line tool for cropping spritesheets into separate images.
+
+It requires [imagemagick](https://www.imagemagick.org).
 
 ## Example:
 ```
